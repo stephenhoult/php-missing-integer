@@ -1,7 +1,6 @@
 <?php
 require('vendor/autoload.php');
 
-$A = [1, 3, 6, 4, 1, 2, 5, 8, 7];
 $A = [-1, -3, 6, 4, 0, 1, 2, 7];
 
 function solutionA($A)
